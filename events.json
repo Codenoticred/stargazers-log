@@ -1,0 +1,49 @@
+{
+  "starredRepositories": [
+    {
+      "id": 1,
+      "name": "awesome-javascript",
+      "url": "https://github.com/sorrycc/awesome-javascript",
+      "description": "A collection of awesome browser-side JavaScript libraries, resources and shiny things.",
+      "stars": 31245,
+      "language": "JavaScript",
+      "lastUpdated": "2026-08-20"
+    },
+    {
+      "id": 2,
+      "name": "react",
+      "url": "https://github.com/facebook/react",
+      "description": "A JavaScript library for building user interfaces with components.",
+      "stars": 225000,
+      "language": "JavaScript",
+      "lastUpdated": "2026-08-24"
+    },
+    {
+      "id": 3,
+      "name": "vue",
+      "url": "https://github.com/vuejs/vue",
+      "description": "The Progressive JavaScript Framework.",
+      "stars": 208000,
+      "language": "JavaScript",
+      "lastUpdated": "2026-08-23"
+    },
+    {
+      "id": 4,
+      "name": "typescript",
+      "url": "https://github.com/microsoft/TypeScript",
+      "description": "TypeScript is a superset of JavaScript that compiles to clean, readable JavaScript code.",
+      "stars": 100000,
+      "language": "TypeScript",
+      "lastUpdated": "2026-08-25"
+    },
+    {
+      "id": 5,
+      "name": "node",
+      "url": "https://github.com/nodejs/node",
+      "description": "Node.js JavaScript runtime built on Chrome's V8 JavaScript engine.",
+      "stars": 106000,
+      "language": "C++",
+      "lastUpdated": "2026-08-26"
+    }
+  ]
+}
